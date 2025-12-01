@@ -1209,7 +1209,7 @@ graph TD
     I --> J{Payment Type}
     J --> J1[Full Amount]
     J --> J2[Partial Payment]
-    J --> <br/>Day Pass]
+    J --> J3[Day Pass]
     J --> J4[Class Booking]
     
     J1 --> K[Display Total<br/>Amount]
